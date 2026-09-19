@@ -1,25 +1,27 @@
 :root {
   /* 자기소개 페이지(about.html)와 동일한 팔레트 */
-  --navy-900: #08243f;
-  --navy-800: #0e3357;
-  --navy-700: #154a7a;
-  --navy-600: #1f6099;
-  --gold-600: #a8832f;
-  --gold-500: #c8a14a;
-  --gold-100: #f6eeda;
+  --brown-900: #2b1810;
+  --brown-800: #43261a;
+  --brown-700: #5b3625;
+  --brown-600: #77492f;
+  --sky-700: #15678c;
+  --sky-500: #58b7e3;
+  --sky-600: #2e8fbc;
+  --sky-200: #c6e6f5;
+  --sky-100: #e6f4fc;
 
-  --ink: #10203a;
-  --body: #3f5164;
-  --muted: #7286a0;
-  --line: #e2e8f0;
-  --line-soft: #eef2f7;
-  --bg: #f5f7fa;
+  --ink: #2a1f18;
+  --body: #58483e;
+  --muted: #7d6c61;
+  --line: #e9e2db;
+  --line-soft: #f4efea;
+  --bg: #faf7f3;
   --card: #ffffff;
   --danger: #b4423a;
 
   --radius: 14px;
-  --shadow-sm: 0 1px 2px rgba(16, 32, 58, 0.06), 0 1px 3px rgba(16, 32, 58, 0.04);
-  --shadow-md: 0 4px 12px rgba(16, 32, 58, 0.07), 0 12px 32px rgba(16, 32, 58, 0.06);
+  --shadow-sm: 0 1px 2px rgba(43, 24, 16, 0.06), 0 1px 3px rgba(43, 24, 16, 0.04);
+  --shadow-md: 0 4px 12px rgba(43, 24, 16, 0.07), 0 12px 32px rgba(43, 24, 16, 0.06);
 
   --sans: 'Pretendard Variable', Pretendard, -apple-system, BlinkMacSystemFont,
     system-ui, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
